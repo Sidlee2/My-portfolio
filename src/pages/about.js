@@ -3,7 +3,7 @@ import Layout from '@/components/Layout'
 import Head from 'next/head'
 import React, { useEffect, useRef } from 'react'
 import Image from 'next/image'
-import profilePic from "../../Public/images/profile/developer-pic-21.jpg"
+//import profilePic from "../../Public/images/profile/developer-pic-21.jpg" //../../Public/images/profile/developer-pic-21.jpg
 import { useInView, useMotionValue, useSpring } from 'framer-motion'
 import Skills from '@/components/Skills'
 import Experience from '@/components/Experience'
@@ -68,7 +68,7 @@ const about = () => {
                         </div>
                         <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:order-1 md:col-span-8'>
                             <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-dark dark:bg-light' />
-                            <Image src={profilePic} alt="myPic" className='w-full h-auto rounded-2xl'
+                            <Image src="/images/profile/developer-pic-21.jpg" width={500} height={500}alt="myPic" className='w-full h-auto rounded-2xl'
                                 priority
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             />
