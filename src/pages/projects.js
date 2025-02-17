@@ -87,8 +87,8 @@ const projects = () => {
                     title="FooDeli (A Food Delivery Application)"
                     img={project1}
                     summary="I developed FooDeli, a responsive food delivery application using the MERN stack (MongoDB, Express.js, React.js, Node.js), designed with a sleek, user-friendly interface. This app features a customizable menu for secure ordering and real-time delivery tracking, with a mobile-first design to ensure optimal performance and accessibility across devices. By integrating advanced UI/UX principles, I created a seamless and intuitive user experience throughout the application."
-                    link="/"
-                    github="/"
+                    link="https://github.com/Sidlee2/Food-delivery"
+                    github="https://github.com/Sidlee2/Food-delivery"
                     type="Featured Project"
 
                     />
@@ -98,8 +98,8 @@ const projects = () => {
                     title="FooDeli (A Food Delivery Application)"
                     img={project11}
                     summary="I developed FooDeli, a responsive food delivery application using the MERN stack (MongoDB, Express.js, React.js, Node.js), designed with a sleek, user-friendly interface. This app features a customizable menu for secure ordering and real-time delivery tracking, with a mobile-first design to ensure optimal performance and accessibility across devices. By integrating advanced UI/UX principles, I created a seamless and intuitive user experience throughout the application."
-                    link="/"
-                    github="/"
+                    link="https://github.com/Sidlee2/Food-delivery"
+                    github="https://github.com/Sidlee2/Food-delivery"
                     type="Featured Project"
 
                     />
@@ -109,8 +109,8 @@ const projects = () => {
                     title="FooDeli (A Food Delivery Application)"
                     img={project12}
                     summary="I developed FooDeli, a responsive food delivery application using the MERN stack (MongoDB, Express.js, React.js, Node.js), designed with a sleek, user-friendly interface. This app features a customizable menu for secure ordering and real-time delivery tracking, with a mobile-first design to ensure optimal performance and accessibility across devices. By integrating advanced UI/UX principles, I created a seamless and intuitive user experience throughout the application."
-                    link="/"
-                    github="/"
+                    link="https://github.com/Sidlee2/Food-delivery"
+                    github="https://github.com/Sidlee2/Food-delivery"
                     type="Featured Project"
 
                     />
@@ -120,8 +120,8 @@ const projects = () => {
                     title="Nishify (A Music Application)"
                     img={project2}
                     summary="I developed Nishify, a Spotify-like music application, using HTML, CSS, and JavaScript to create a smooth, responsive design and an intuitive user interface. The app includes key functionalities such as playlist creation, song management, and playback controls to deliver an enhanced user experience. I focused on building the front-end with modern web technologies, ensuring compatibility and performance across various devices. This project was a personal challenge to test and demonstrate my skills in basic web development technologies while delivering a seamless and responsive music application."
-                    link="/"
-                    github="/"
+                    link="https://github.com/Sidlee2/Music-Application"
+                    github="https://github.com/Sidlee2/Music-Application"
                     type="Featured Project"
 
                     />
@@ -131,8 +131,8 @@ const projects = () => {
                     title="Nishify (A Music Application)"
                     img={project21}
                     summary="I developed Nishify, a Spotify-like music application, using HTML, CSS, and JavaScript to create a smooth, responsive design and an intuitive user interface. The app includes key functionalities such as playlist creation, song management, and playback controls to deliver an enhanced user experience. I focused on building the front-end with modern web technologies, ensuring compatibility and performance across various devices. This project was a personal challenge to test and demonstrate my skills in basic web development technologies while delivering a seamless and responsive music application."
-                    link="/"
-                    github="/"
+                    link="https://github.com/Sidlee2/Music-Application"
+                    github="https://github.com/Sidlee2/Music-Application"
                     type="Featured Project"
 
                     />
@@ -142,8 +142,8 @@ const projects = () => {
                     title="Nishify (A Music Application)"
                     img={project22}
                     summary="I developed Nishify, a Spotify-like music application, using HTML, CSS, and JavaScript to create a smooth, responsive design and an intuitive user interface. The app includes key functionalities such as playlist creation, song management, and playback controls to deliver an enhanced user experience. I focused on building the front-end with modern web technologies, ensuring compatibility and performance across various devices. This project was a personal challenge to test and demonstrate my skills in basic web development technologies while delivering a seamless and responsive music application."
-                    link="/"
-                    github="/"
+                    link="https://github.com/Sidlee2/Music-Application"
+                    github="https://github.com/Sidlee2/Music-Application"
                     type="Featured Project"
 
                     />

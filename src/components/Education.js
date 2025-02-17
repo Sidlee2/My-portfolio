@@ -44,6 +44,20 @@ Intelligence. "
             
             />
         </ul>
+        <hr className="my-6 border-t border-dark dark:border-light"/>
+        <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
+            <Details
+            type="Higher Secondary Education(XII)" time="2019-2020" place="City Montessori School(C.M.S)" 
+            info="Relevant courses included such as Physics, Chemistry, Mathematics, Computer and English. "
+            />
+        </ul>
+        <hr className="my-6 border-t border-dark dark:border-light"/>
+        <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
+            <Details
+            type="Secondary Education(X)" time="2017-2018" place="City Montessori School(C.M.S)" 
+            info="Relevant courses included such as Physics, Chemistry, Mathematics, Computer, English and Hindi. "
+            />
+        </ul>
       </div>
     </div>
   )

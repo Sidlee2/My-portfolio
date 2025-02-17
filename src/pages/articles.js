@@ -106,14 +106,14 @@ const articles = () => {
                             title="Web Developer by Passion: Transforming Concepts into Dynamic Web Experiences"
                             summary="As a web developer, I am passionate about turning creative ideas into functional, user-friendly websites. With a keen eye for design and a solid understanding of front-end and back-end technologies, I craft seamless digital experiences that are both visually appealing and highly interactive. Continuously learning and experimenting with new frameworks and tools, I strive to stay ahead in the ever-evolving world of web development."
                             time="9 min read"
-                            link="/"
+                            link="https://github.com/Sidlee2?tab=repositories"
                             img={article1}
                         />
                         <FeaturedArticle
                             title="Problem-Solving Enthusiast: Mastering Algorithms and Coding Challenges"
                             summary="Problem-solving through coding is a passion I pursue daily on platforms like LeetCode. I thrive on tackling complex challenges, enhancing my understanding of algorithms, and refining my problem-solving skills. Each problem I solve not only strengthens my technical abilities but also fuels my love for coding, helping me stay sharp and continuously improve as a developer."
                             time="9 min read"
-                            link="/"
+                            link="https://leetcode.com/u/sidlee21lcw/"
                             img={article2}
                         />
                     </ul>
