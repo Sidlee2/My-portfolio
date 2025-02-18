@@ -52,8 +52,7 @@ const about = () => {
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                             <p className='font-medium'>
                                 Hi, I&#39;m Siddharth, a web developer and UI/UX designer with a passion for crafting
-                                beautiful, functional, and user-centric digital experiences. With 4 years of experience
-                                in the industry, I constantly seek innovative ways to bring my clients&#39; visions to life,
+                                beautiful, functional, and user-centric digital experiences. I constantly seek innovative ways to bring my clients&#39; visions to life,
                                 blending creativity with technical expertise.
                             </p>
                             <p className='my-4 font-medium'>
